@@ -97,6 +97,77 @@ footer {
 	background-image: -o-linear-gradient(to top right, #2D2D2F, #38383A);
 	background-image: linear-gradient(to top right, #2D2D2F, #38383A);
 }
+/** services **/
+.site
+{
+  background-image: url("../img/Site.jpg");
+  height:75vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title
+{
+ font-family:'Arial' sans-serif;
+ font-size: 15pt;
+
+}
+.bloc-1
+{
+	display: flex;
+	height: 250px;
+	align-items: center;
+	padding: 20px;
+}
+.bloc-1 p
+{
+	display: block;
+	position: relative;
+	text-align: justify;
+
+}
+
+
+.redes
+{
+  background-image: url("../img/Redes.jpg");
+  height: 65vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.seo
+{
+  background-image: url("../img/Seo.jpg");
+  height: 75vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.apps
+{
+  background-image: url("../img/Apps.jpg");
+  height: 65vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.soft
+{ 
+  background-image: url("../img/Software.jpg");
+  height: 65vh; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.
+
 
 
 
